@@ -1,13 +1,13 @@
-♪ ♫♪ deine hände fliegen ♫♪
 ► elvir ram
 ► kunstgeschichte + informatik
-► x☼x☼
+► x☼x☼ 
 
 <!--
 **crelq/crelq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- ☻ ♪ ♫♪ our hands they fly ♫♪
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
